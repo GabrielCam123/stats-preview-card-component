@@ -33,7 +33,7 @@ body{
     border-radius: 10px;
 }
 .header-imagen{
-    background-image: url(./images/image-header-desktop.jpg);
+    background-image: url(../images/image-header-desktop.jpg);
     position: absolute;
     right: 0;
     width: 50%;
